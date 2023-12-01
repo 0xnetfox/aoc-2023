@@ -1,0 +1,8 @@
+[workspace]
+
+members = [
+  "./01/rust-01",
+  "./02/rust-02",
+  "./03/rust-03",
+  "./04/rust-04",
+]
